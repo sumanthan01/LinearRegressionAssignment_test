@@ -1,5 +1,5 @@
 # Project Name
-> Bike sharing Linear Regression assignment.
+> Multiple linear regression model for the prediction of demand for shared bikes.
 
 
 ## Table of Contents
